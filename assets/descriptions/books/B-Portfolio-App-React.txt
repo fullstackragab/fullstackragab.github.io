@@ -1,0 +1,26 @@
+The book "Reactfolio: Building an Impressive Portfolio App with React" is a comprehensive, hands-on learning experience for anyone who wants to master React and build impressive web applications. 
+This book is ideal for students who have a basic understanding of web development and want to take their skills to the next level by mastering React and creating engaging portfolio projects.
+
+In this book, I show you how to create a professional portfolio application. This is my real portfolio app, if you've ever visited my website. I explain how you can create a website like this to have your own brand and show the world your talent.
+
+I start from scratch and end with a fully functional app that you can use as your official portfolio. I'll focus on developing the app without going into too much detail to keep the book as lean as possible. On a side note: If you want to know more details about a specific topic of React or CSS, there are other books for that.
+
+What you get in this book is a fully functional application, with explanations on how to build it yourself easily and quickly. In today's mobile-first world, responsive design is of the utmost importance. So our application adapts seamlessly to different screen sizes and devices.
+
+Since everyone has their own way of doing things, I encourage you to customize the app to your needs and apply your own style. As a graduate of this book, you will be well prepared to present your work, pitch to potential clients or employers, and hold your own in the highly competitive field of web development.
+
+The book is well structured so that you have a clear understanding of what you will be developing, from the big picture to the individual components. This is also very useful for your programming practice, as I teach you, among other things, the architecture under the hood, which you will only learn after years of work. However, I don't go into this explicitly, but limit myself to explaining how the application is implemented and giving you the opportunity to see how real production applications are implemented.
+
+You will absorb all this knowledge without me having to say it explicitly.
+
+There is no connection to the backend in this application because it is not necessary.
+
+However, the application is built in such a modern way that we use a data layer that can easily be integrated into the backend if you change your mind. For example, if you want to add a new experience, you just add a new record in the data file without touching html, css or other parts, and the same goes for all applications, like certificates, projects, etc.
+
+You will learn and experience a lot, learn valuable professional and marketable production techniques and end up with your own product that you can publish to impress your clients and employers.
+
+Join us on this transformative learning journey and unleash your creative potential with React!
+
+Build your own brand and show the world your talent!
+
+Have fun programming!
