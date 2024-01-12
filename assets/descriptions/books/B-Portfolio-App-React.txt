@@ -1,4 +1,4 @@
-"Reactfolio: Building an Impressive Portfolio App with React" is a practical book that provides participants with the knowledge and skills they need to create impressive and engaging portfolio apps using the React framework.
+"Reactfolio: Boost your online presence with React" is a practical book that provides participants with the knowledge and skills they need to create impressive and engaging portfolio apps using the React framework.
 
 In this book, I show you how to create a professional portfolio app. This is my real portfolio app that runs online, if you've ever visited my website. I explain how you can create a website like this to have your own brand and show the world your talent.
 

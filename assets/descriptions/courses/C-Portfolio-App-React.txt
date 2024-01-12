@@ -1,4 +1,4 @@
-"Reactfolio: Building an Impressive Portfolio App with React" is a comprehensive, hands-on learning experience for anyone who wants to master React and build impressive web applications.
+"Reactfolio: Boost your online presence with React" is a comprehensive, hands-on learning experience for anyone who wants to master React and build impressive web applications.
 This course is ideal for students who have a basic understanding of web development and want to take their skills to the next level by mastering React and building engaging portfolio applications.
 
 In this course, I will show you how to create a professional portfolio application. This is my real portfolio app if you've ever visited my website. I'll explain how you can create a website like this to have your own brand and show the world your talent.
