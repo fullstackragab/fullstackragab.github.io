@@ -1,0 +1,24 @@
+"Reactfolio: Boost your online presence with React" is a practical book that provides participants with the knowledge and skills they need to create impressive and engaging portfolio apps using the React framework.
+
+In this book, I show you how to create a professional portfolio app. This is my real portfolio app that runs online, if you've ever visited my website. I explain how you can create a website like this to have your own brand and show the world your talent.
+
+This is a practical book. In this book, I don't explain React, I implement the project from scratch and finish it in less than an hour. Once I'm done, you take control of the application and bring in your own brand.
+
+That's the main goal of the book: to help you create your own website that you design to your liking by controlling the colors, layout, and every pixel of your online portfolio.
+
+This is important for your online presence and your career. You need your own website to show the world your talent.
+
+The book is well structured so that you have a clear understanding of what you will be developing, from the big picture to the individual components. This is also very useful for your coding practice as I teach you the architecture under the hood, among other things.
+
+In this application, there is no connection to the backend because it is not necessary.
+
+However, the application is built in such a modern way that we use a data layer that can easily be integrated into the backend in case you change your mind later.
+This is also very useful if you want to expand your website. You simply add a new row in the data layer and it will be displayed on your website without you having to edit any files like CSS or HTML. For example, if you want to add a new project, certificate or something else.
+
+In summary, you'll learn valuable professional and marketable production techniques and end up with your own product that you can publish to impress your clients and employers.
+
+Join us on this transformative learning journey and unleash your creative potential with React!
+
+Build your own brand and show the world your talent!
+
+Have fun programming!
