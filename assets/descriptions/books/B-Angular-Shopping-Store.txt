@@ -1,0 +1,13 @@
+In this hands-on guide, we'll embark on an exciting journey to create a fully functional online shopping store using the powerful Angular framework. Along the way, we'll delve into the intricacies of integrating Stripe, a popular payment gateway, to enable secure and frictionless transactions.
+
+This book is aimed at both beginners and intermediate developers who want to expand their knowledge of Angular and gain hands-on experience in developing robust e-commerce applications. By following the step-by-step instructions, you will not only learn the basic concepts of Angular, but also acquire the necessary skills to implement a secure and efficient payment system with Stripe.
+
+We start from scratch and build an Angular application that forms the backbone of our store. You will learn how to set up the development environment, configure Angular and create the key components and services for an e-commerce platform.
+
+But our journey doesn't stop here. Knowing that a successful shopping experience depends on reliable payment processing, we will explore the integration of Stripe into our application. By seamlessly integrating Stripe's powerful API, you'll learn how to process payments securely and efficiently and provide your customers with a smooth checkout process.
+
+To ensure a comprehensive understanding of the payment flow, we will not only cover the server-side implementation, but also focus on the client-side experience. You will learn how to create intuitive success and abandonment pages that inform the user about the payment status and confirm successful transactions. This will allow you to create a seamless and professional user experience that increases customer satisfaction and trust.
+
+At the end of this journey, you will have the knowledge and skills you need to create a fully functional online store with Angular and process payments with Stripe.
+
+So, let's start this exciting adventure and harness the potential of Angular and Stripe to build your own successful online shopping store. Get ready to turn your ideas into reality and provide users with a secure and hassle-free shopping experience!
