@@ -4,6 +4,6 @@ Knowing that a successful shopping experience depends on reliable payment proces
 
 To ensure a comprehensive understanding of the payment flow, we will not only cover the server-side implementation, but also focus on the client-side experience. You will learn how to create intuitive success and abandonment pages that inform the user about the payment status and confirm successful transactions. This will allow you to create a seamless and professional user experience that increases customer satisfaction and trust.
 
-By the end of this book, you will have the knowledge and skills you need to create a fully functional online store with Angular and process payments with Stripe.
+By the end of this course, you will have the knowledge and skills you need to create a fully functional online store with Angular and process payments with Stripe.
 
 So, let's start this exciting adventure and harness the potential of Angular and Stripe to build your own successful online shopping store. Get ready to turn your ideas into reality and offer your customers a secure and hassle-free shopping experience!
